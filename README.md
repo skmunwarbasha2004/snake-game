@@ -14,7 +14,7 @@ Control the snake to eat food and grow in size while avoiding collisions with wa
 Prerequisites:
 Ensure you have Python and Pygame installed on your system.
 
-##Install Pygame:
+Install Pygame:
 
 pip install pygame
 
@@ -26,7 +26,7 @@ Run the Game
 
 python snakegame.py
 
->>>>>>> be7f3dce560f2ae693e3188976c388ff54df84a3
+
 🎮 Gameplay
 Start Menu:
 
@@ -96,7 +96,6 @@ Press Q → Quit.
 
 ✔️ Golden Food Bonus (Special food gives extra points)
 
->>>>>>> be7f3dce560f2ae693e3188976c388ff54df84a3
 ✔️ Sound Effects (Eating and game-over sounds)
 
 
