@@ -1,10 +1,10 @@
-🐍Munna Snake Game
+**🐍Munna Snake Game
 
 
 Welcome to Munna Snake Game, a classic snake game built using Python and Pygame. This game features an interactive start menu, a scoring system, and adjustable wall mode.
 
 
-🎯Objective
+**🎯Objective**
 
 
 Control the snake to eat food and grow in size while avoiding collisions with walls (if enabled) and itself. The goal is to achieve the highest possible score.
@@ -31,7 +31,7 @@ python snakegame.py
 Start Menu:
 
 Press S → Start the game.
-<<<<<<< HEAD
+
 Press W → Toggle "Wall Mode" (ON/OFF).
 Press Q → Quit the game.
 During the Game:
@@ -53,8 +53,8 @@ Press Q → Quit.
 ✔️ Snake Growth (Grows in length as food is eaten)
 ✔️ Wall Mode Toggle (Enable/Disable boundary collision)
 ✔️ Speed Increase (Difficulty increases as you score)
-✔️ Golden Food Bonus (Special food gives extra points)
-=======
+✔️ Golden Food Bonus (Special food gives extra points)**
+
 
 Press W → Toggle "Wall Mode" (ON/OFF).
 
