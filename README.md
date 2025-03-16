@@ -18,7 +18,8 @@ Ensure you have Python and Pygame installed on your system.
 
 pip install pygame
 
-Clone the Repository: https://github.com/your-username/snake-game.git
+Clone the Repository: https://github.com/skmunwarbasha2004/snake-game.git
+
 cd snake-game
 
 Run the Game
