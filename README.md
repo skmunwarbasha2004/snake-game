@@ -1,15 +1,15 @@
-#🐍Munna Snake Game
+🐍Munna Snake Game
 
 
 Welcome to Munna Snake Game, a classic snake game built using Python and Pygame. This game features an interactive start menu, a scoring system, and adjustable wall mode.
 
 
-##🎯Objective
+🎯Objective
 
 
 Control the snake to eat food and grow in size while avoiding collisions with walls (if enabled) and itself. The goal is to achieve the highest possible score.
 
-##⚙️Setup
+⚙️Setup
 
 Prerequisites:
 Ensure you have Python and Pygame installed on your system.
@@ -25,7 +25,7 @@ Run the Game
 
 python snakegame.py
 
-#🎮 Gameplay
+🎮 Gameplay
 Start Menu:
 
 Press S → Start the game.
