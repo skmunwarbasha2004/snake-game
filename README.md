@@ -98,6 +98,10 @@ Press Q → Quit.
 
 ✔️ Sound Effects (Eating and game-over sounds)
 
+![Image](https://github.com/user-attachments/assets/4ca3337b-9f09-4e36-9836-36e66c791be6)
+
+![Image](https://github.com/user-attachments/assets/dc67b432-9157-452f-a560-c031d85f17e6)
+
 
  
 
